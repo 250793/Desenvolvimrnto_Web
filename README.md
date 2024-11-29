@@ -1,32 +1,8 @@
-<h1 align="center">
-  Minhas Tarefas
-</h1>
 
-<p align="center" style="margin-right: 8px">
-  <img src="./assets/readme/dashboard.png" />
-</p>
 
 ## 💻 Sobre o projeto
 
 Esse front end traz todas as principais funcionalidades de uma lista de tarefas, além de se comunicar com uma API REST para para salvar suas tarefas. Este sistema foi feito como trabalho final da disciplina de desenv plataformas web.
-
-## ⚙️ Funcionalidades
-
-- Apresentação da aplicação (Landing Page)
-
-  ![Landing Page](/assets/readme/landing-page.png "Home")
-
-- Criação de usuários
-
-  ![Tela de cadastro de usuário](/assets/readme/register.png "Cadastro")
-
-- Autenticação de usuários via JWT
-
-  ![Tela de login](/assets/readme/login.png "Login")
-
-- Autenticado você é redirecionado para a dashboard onde estará listado suas tarefas. Você pode adicionar, remover e marcar como concluído as tarefas.
-
-  ![Tela de login](/assets/readme/dashboard.png "Dashboard")
 
 ## 🛠 Tecnologias
 
