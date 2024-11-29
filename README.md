@@ -22,17 +22,3 @@ Clone o projeto e depois de baixado entre na raiz do projeto e execute:
 ```bash
   npm install
 ```
-
-Como falado anteriormente, você precisa rodar o backend feito para essa aplicação para o funcionamento correto. Defina um arquivo `.env.local` na raiz do projeto e copie todas as variavéis do `.env.local.example`.
-
-```
-VITE_API_URL="Defina a url do backend local aqui"
-```
-
-Feito isso, execute o comando na raiz:
-
-```bash
-npm run dev
-```
-
-Se tudo estiver certo, o frontend irá iniciar 🚀
