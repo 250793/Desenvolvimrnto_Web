@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+:root {
+  --blue: #0d6efd;
+  --texts-primary: #333;
+  --texts-secondary: #adb5bd;
+}
+
+body {
+  font-family: "Source Sans 3", sans-serif;
+}
+
+.wrapper {
+  height: 100vh;
+}
+
+.wrapper .btn-light,
+.wrapper .btn-light:hover,
+.wrapper .btn-light:focus {
+  color: #333;
+}
+
+.wrapper .cover-container {
+  max-width: 42em;
+}
+
+.wrapper .nav-masthead .nav-link:hover,
+.wrapper .nav-masthead .nav-link:focus {
+  color: var(--blue);
+  border-bottom: .25rem solid var(--blue);
+  border-bottom-color: var(--blue);
+}
+
+.wrapper .nav-masthead .nav-link + .nav-link {
+  margin-left: 1rem;
+}
+
+.bg {
+  background-color: var(--blue);
+}
